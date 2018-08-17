@@ -1,0 +1,10 @@
+nslookup
+nslookup -type=NS spooky-gh.com
+nslookup -type=MX
+
+A, NS, CNAME, SOA
+
+openssl genrsa
+letsencrypt.org
+
+psql -h iso100-restore.cx8us7qiwha0.us-west-2.rds.amazonaws.com -U ttang08 iso100_production
